@@ -1,16 +1,16 @@
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Ian, a passionate Software Developer who loves solving problems and building innovative solutions. I'm always open to learning and exploring new technologies.
+👋 Hi there, I'm Ian Onyango!
+Welcome to my GitHub profile! I’m a Software Developer passionate about building innovative solutions and exploring cutting-edge technologies. Whether it's crafting robust backends or creating seamless user experiences, I’m always up for a challenge.
 
-🛠️ Tech Toolbox
-Here are some of the tools and technologies I work with:
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 🚀 About Me
-🔭 I’m currently working on Online Learning Platforms.
-🌱 I’m exploring AI-powered tools and psychometric systems.
-🤝 I’m looking to collaborate on impactful open-source projects.
-💬 Ask me about Django, JavaScript, and building e-portals.
-📫 Reach me at LinkedIn or Twitter.
-⚡ Fun fact: I enjoy designing intuitive interfaces and crafting meaningful user experiences.
-Connect with me
-Portfolio | GitHub | LinkedIn
+🔭 Currently Working On:
+Developing scalable online learning platforms and psychometric systems to empower education and career decisions.
+
+🌱 Learning & Exploring:
+
+AI-powered solutions for personalized learning
+Advanced Django techniques for building e-portals
+💬 Ask Me About:
+Django, JavaScript, AI-driven systems, or building robust platforms.
+
+⚡ Fun Fact:
+When I’m not coding, I’m brainstorming ideas to blend technology with education and career development.
