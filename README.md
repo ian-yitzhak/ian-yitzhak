@@ -2,7 +2,7 @@ Ian Onyango
 
 Welcome to my GitHub profile. I am a Software Developer with a strong focus on building automated, scalable, and innovative digital solutions. My work combines backend engineering, frontend design, and intelligent automation to create platforms that are functional, impactful, and future-ready.
 
-🔹** About Me**
+** About Me**
 Currently Working On
 
 Scalable online learning platforms with structured course delivery, student tracking, and analytics.
