@@ -3,6 +3,7 @@ Ian Onyango
 Welcome to my GitHub profile. I am a Software Developer with a strong focus on building automated, scalable, and innovative digital solutions. My work combines backend engineering, frontend design, and intelligent automation to create platforms that are functional, impactful, and future-ready.
 
 ** About Me**
+
 Currently Working On
 
 Scalable online learning platforms with structured course delivery, student tracking, and analytics.
@@ -23,6 +24,7 @@ Data-driven applications with Python, analytics, and machine learning.
 
 🔹** Areas of Expertise**
 
+
 Web Development: Django, React, JavaScript, REST APIs, Bootstrap, TailwindCSS
 
 System Design & Automation: SaaS platforms, ERP/CRM systems, booking & reservation systems
@@ -36,6 +38,7 @@ DevOps & Cloud: Docker, VPS deployment, CI/CD workflows, GitHub Actions
 AI & ML Applications: Natural Language Processing, computer vision, predictive analytics
 
 🔹** Ask Me About**
+
 
 Building robust platforms with Django and Python
 
